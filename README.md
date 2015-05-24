@@ -7,3 +7,4 @@ TODO:
 - grunt integration
 - compile
 - jekyll
+- schema.org article, rich snippets for content too.
